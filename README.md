@@ -5,5 +5,5 @@ Language-instruction software is becoming an increasingly important tool for lan
 
 ### Data management plan
 
-####Data storage and preservation of access
+Data storage and preservation of access:
 All the data will be stored in GitHub, Google Drive, iDVL lab server where it will be maintained by project team members. Backups will occur on external hard disks periodically (at least four times a year). The data will be permanently archived at the iDVL server, Texas Tech University (TTU) repository (ThinkTech), Google Drive and GitHub along with the external hard disks. The iDVL server is an online server which is maintained by the iDVL lab under the supervision of co-PI Tommy Dang. ThinkTech is an online publishing and archival service for the TTU community which is managed by TTU libraries. ThinkTech provides an opportunity for scholars to archive and distribute their work without any content and format limitation. Final reports and publications will be deposited in ThinkTech. The TTU libraries will be responsible for the long-term management and maintainance of these assets.
